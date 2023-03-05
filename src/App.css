@@ -1,0 +1,57 @@
+
+.container{
+
+  width: 30%;
+  padding: 15px;
+  border:10px solid blue;
+  border-radius: 10px;
+}
+
+.countStyle_error{
+  color: red;
+  border: cyan 2px solid;
+  border-radius: 10px;
+  font-size: 36px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 125px;
+  margin-bottom: 15px;
+  background-color: brown;
+
+}
+
+.countStyle{
+  color: black;
+  width: 100%;
+  border: cyan 2px solid;
+  border-radius: 10px;
+  font-size: 36px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 125px;
+  margin-bottom: 15px;
+  background-color: brown;
+
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  width: 100%;
+  border: cyan 2px solid;
+  border-radius: 10px;
+
+  padding: 15px 0 15px 0;
+background-color: darkmagenta;
+}
+
+
+.button {
+
+  font-size: 20px;
+
+}
